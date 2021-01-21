@@ -9,6 +9,6 @@ Download the project files.
 
 Run the server on the local machine: node app.js
 
-Log into this system by typing “http://localhost:3000/” in the browser. Then you can see the content you ever written on the homepage. 
+Log into this system by typing “http://localhost:3000/” in the browser.
 
 Compose your new blog by typing “/compose” to the address line in the browser. Then you can start a happy writing!
