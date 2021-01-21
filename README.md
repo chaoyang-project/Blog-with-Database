@@ -1,6 +1,9 @@
 # Blog-with-Database
-This is a local blog system developed by Node.js and EJS. The application is connected with the local database MongoDB. 
+This is a local blog system developed by Node.js and EJS. 
 
+The application is connected with the local database MongoDB. 
+
+## Instructions:
 
 Download the project files.
 
